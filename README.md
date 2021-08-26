@@ -1,6 +1,10 @@
 # Google-Maps
 
-Using Google Maps API to run a map within the application, a location information search application.
+##### Using Google Maps API to run a map within the application, a location information search application.
+<br>
+
+Screenshots of the app :
+<br><br><br>
 
 ![Adsız](https://user-images.githubusercontent.com/48391281/131016005-c454a69d-8de5-43f5-b863-16078066b696.png)
 
