@@ -7,7 +7,7 @@
 
 ##### Android > app > res > values > google_maps_api.xml contained in the file;
 ```
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">YOUR API KEY</string>
+<string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">YOUR API KEY</string>
 ```
 ##### You must add your own API key to YOUR API KEY. Site where you can generate API Key:
 ``` https://console.cloud.google.com/apis/library?project=maps-294708 ```
