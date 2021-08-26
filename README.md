@@ -6,7 +6,8 @@
 Screenshots of the app :
 <br><br><br>
 
-![Adsız](https://user-images.githubusercontent.com/48391281/131016005-c454a69d-8de5-43f5-b863-16078066b696.png)
+![Adsız2](https://user-images.githubusercontent.com/48391281/131017318-06261cab-6301-4846-bb18-af121d6fbcde.png)
+
 
 ## License
 ```
