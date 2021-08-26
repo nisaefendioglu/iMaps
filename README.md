@@ -2,6 +2,19 @@
 
 ##### By running a map within the app using the Google Maps API, it displays a location search and the distance between marked points.
 ##### You can view the map in two different ways: Normal View and Satellite View.
+
+## Build and run the app
+
+##### Android > app > res > values > google_maps_api.xml contained in the file;
+```
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">YOUR API KEY</string>
+```
+##### You must add your own API key to YOUR API KEY. Site where you can generate API Key:
+``` https://console.cloud.google.com/apis/library?project=maps-294708 ```
+##### For more detailed information, you can visit the website at the link below:
+``` https://developers.google.com/maps/documentation/android/start#get-key ```
+##### Run the app using the "play" or "debug" button.
+
 <br>
 
 Screenshots of the app :
