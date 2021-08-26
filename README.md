@@ -1,6 +1,7 @@
 # Google-Maps
 
 ##### By running a map within the app using the Google Maps API, it displays a location search and the distance between marked points.
+##### You can view the map in two different ways: Normal View and Satellite View.
 <br>
 
 Screenshots of the app :
