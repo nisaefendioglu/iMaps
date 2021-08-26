@@ -1,6 +1,6 @@
 # Google-Maps
 
-##### Using Google Maps API to run a map within the application, a location information search application.
+##### By running a map within the app using the Google Maps API, it displays a location search and the distance between marked points.
 <br>
 
 Screenshots of the app :
