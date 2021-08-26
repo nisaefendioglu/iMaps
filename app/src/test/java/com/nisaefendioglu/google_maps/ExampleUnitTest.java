@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.nisaefendioglu.google_maps;
 
 import org.junit.Test;
 
