@@ -1,7 +1,11 @@
-# Google-Maps
+# iMaps
 
 ##### By running a map within the app using the Google Maps API, it displays a location search and the distance between marked points.
 ##### You can view the map in two different ways: Normal View and Satellite View.
+
+## Google Play Store :
+
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=com.nisaefendioglu.google_maps)
 
 ## Build and run the app
 
